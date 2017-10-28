@@ -1,0 +1,9 @@
+1>------ Построение начато: проект: Console28, Конфигурация: Debug Win32 ------
+1>Compiling with Intel(R) Visual Fortran 11.1.051 [IA-32]...
+1>Console28.f90
+1>Linking...
+1>Embedding manifest...
+1>
+1>Build log written to  "file://C:\Users\Andrey\Documents\Visual Studio 2008\Projects\Console28\Console28\Debug\BuildLog.htm"
+1>Console28 - 0 error(s), 0 warning(s)
+========== Построение: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
